@@ -1,10 +1,10 @@
 # Hi there, I'm Siddhant Uke 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%40+Celebel+Technologies;RAG+Pipelines+%7C+LLM+Workflows+%7C+Agents;Shipping+Production+GenAI+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;RAG+Pipelines+%7C+LLM+Workflows+%7C+Agents;Shipping+Production+GenAI+Systems)](https://git.io/typing-svg)
 
 ![Neural network animation](profile-banner.gif)
 
-**AI/ML Engineer @ Celebel Technologies** — I build production GenAI systems: RAG pipelines, structured-output LLM workflows, and agentic AI with evals, guardrails, and real deployments.
+**AI/ML Engineer** — I build production GenAI systems: RAG pipelines, structured-output LLM workflows, and agentic AI with evals, guardrails, and real deployments.
 
 🌐 **Portfolio:** [siddhantuke.github.io](https://siddhantuke.github.io)
 📫 **Reach me:** [ukesidd@gmail.com](mailto:ukesidd@gmail.com) · [LinkedIn](https://www.linkedin.com/in/siddhant-uke)
