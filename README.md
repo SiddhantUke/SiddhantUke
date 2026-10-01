@@ -6,7 +6,7 @@
 
 **AI/ML Engineer** — I build production GenAI systems: RAG pipelines, structured-output LLM workflows, and agentic AI with evals, guardrails, and real deployments.
 
-🌐 **Portfolio:** [[siddhantuke.github.io](https://siddhantuke.github.io)](http://siddhantuke.netlify.app/)
+🌐 **Portfolio:** http://siddhantuke.netlify.app/
 📫 **Reach me:** [ukesidd@gmail.com](mailto:ukesidd@gmail.com) · [LinkedIn](https://www.linkedin.com/in/siddhant-uke)
 
 ---
