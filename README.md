@@ -6,7 +6,7 @@
 
 **AI/ML Engineer** — I build production GenAI systems: RAG pipelines, structured-output LLM workflows, and agentic AI with evals, guardrails, and real deployments.
 
-🌐 **Portfolio:** http://siddhantuke.netlify.app/
+🌐 **Portfolio:** [siddhantuke.netlify.app](https://siddhantuke.netlify.app)
 📫 **Reach me:** [ukesidd@gmail.com](mailto:ukesidd@gmail.com) · [LinkedIn](https://www.linkedin.com/in/siddhant-uke)
 
 ---
@@ -39,13 +39,15 @@
 
 | Project | What it does | Result |
 |---|---|---|
-| [Production RAG Chatbot](https://siddhantuke.github.io#projects) | Hybrid retrieval (pgvector) + cross-encoder rerank + eval pipeline | **87% P@5**, −30% resolution time |
-| [Structured-Output LLM Pipeline](https://siddhantuke.github.io#projects) | GPT-4.1 function calling → Pydantic-validated outputs → internal REST APIs | **88% accuracy**, −45% manual triage |
-| [Corrective RAG](https://siddhantuke.github.io#projects) | LangGraph retrieve → grade → rewrite → web-fallback loop | **−25% hallucinations** |
-| [Agentic Workflows](https://siddhantuke.github.io#projects) | Planner → router → executor → verifier, human-in-the-loop | **−40%** manual intervention |
-| [Vision Diet App](https://siddhantuke.github.io#projects) | Gemini Vision + Streamlit nutrition tracking | Shipped side project |
+| [Production RAG Chatbot](https://siddhantuke.netlify.app#projects) | Hybrid retrieval (pgvector) + cross-encoder rerank + eval pipeline | **87% P@5**, −30% resolution time |
+| [Structured-Output LLM Pipeline](https://siddhantuke.netlify.app#projects) | GPT-4.1 function calling → Pydantic-validated outputs → internal REST APIs | **88% accuracy**, −45% manual triage |
+| [Corrective RAG](https://siddhantuke.netlify.app#projects) | LangGraph retrieve → grade → rewrite → web-fallback loop | **−25% hallucinations** |
+| [Agentic Workflows](https://siddhantuke.netlify.app#projects) | Planner → router → executor → verifier, human-in-the-loop | **−40%** manual intervention |
+| [Bi-directional Voice Service](https://siddhantuke.netlify.app#projects) | FastAPI + WebSockets on AWS App Runner, GitHub Actions CI/CD | **Zero-touch** deploys |
+| [QLoRA Fine-tuning — Llama 3 (8B)](https://siddhantuke.netlify.app#projects) | Domain-tuned credit risk summaries for commercial loans | **−35%** underwriting time |
+| [Vision Diet App](https://siddhantuke.netlify.app#projects) | Gemini Vision + Streamlit nutrition tracking | Shipped side project |
 
-Full case studies with architecture diagrams on my [portfolio](https://siddhantuke.github.io).
+Full case studies with architecture diagrams on my [portfolio](https://siddhantuke.netlify.app).
 
 ---
 
